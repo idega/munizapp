@@ -1,0 +1,1 @@
+{"subscribe":true,"token":"DEVICE_UUID","localeId":"en","device":"iOS"}
