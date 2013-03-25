@@ -1,0 +1,1 @@
+{"caption":"Serious issue","description":"This is a very serious issue in my municipality","address":"Konstitucijos pr. 12, Vilnius, Lithuania","email":"issue@author.com","name":"Issue Author","typeId":6,"categoryId":5,"location":{"lat":55.303616,"lon":20.975941}}
