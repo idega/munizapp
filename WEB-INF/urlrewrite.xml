@@ -1,0 +1,8 @@
+<urlrewrite use-query-string="true">
+
+	<rule>
+	    <from>.*/issue/.*/([0-9]*)$</from>
+	    <to type="forward" last="true">/pages/issues/?issueId=$1</to>
+	</rule>
+
+</urlrewrite>
