@@ -1,1 +1,1 @@
-{"token":"1","locale":"3","message":"2","notifyOn":"4","data":[{"key":"issueId","value":"5"},{"key":"municipalityId","value":"6"}]}
+{"token":"DEVICE'S TOKEN","locale":"LANGUAGE CODE BY ISO 639-1","message":"Your message","notifyOn":"issue_in_municipality","data":[{"key":"issueId","value":"5"},{"key":"municipalityId","value":"6"}]}
