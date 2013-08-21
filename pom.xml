@@ -274,9 +274,9 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
         <artifactId>com.idega.maven.webapp</artifactId>
         <extensions>true</extensions>
         <configuration>
+          <extractResources>true</extractResources>
           <archive>
             <manifest>
-              <!--addClasspath>true</addClasspath-->
               <addExtensions />
             </manifest>
             <manifestEntries>
