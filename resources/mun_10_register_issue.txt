@@ -1,1 +1,1 @@
-{"privateIssue":false,"spam":false,"comment":"This is a serious issue","status":"received"}
+{"privateIssue":false,"spam":false,"comment":"This is a serious issue","status":"received","statusId":2}
